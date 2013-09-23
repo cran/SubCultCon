@@ -1,0 +1,5 @@
+#exportPattern("^[[:alpha:]]+")
+
+export(ccmle,ccgrouptest,GAmaxcomp)
+
+import(graphics,grDevices,stats,utils)
